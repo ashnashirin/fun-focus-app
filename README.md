@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1745" height="982" alt="Screenshot_2026-02-14_08-10-42" src="https://github.com/user-attachments/assets/67a26cb0-4393-4177-a302-f737bfc2fb59" /><p align="center">
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
@@ -67,16 +67,19 @@ Open index.html in any modern browser (Chrome, Firefox, Edge) to start the timer
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1745" height="982" alt="Screenshot_2026-02-14_08-10-42" src="https://github.com/user-attachments/assets/09284711-954c-43c3-990d-279eb4898d5e" />
+ 
+*Initial screen, it is from here that focus sessions starts*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1745" height="982" alt="Screenshot_2026-02-14_08-10-42" src="https://github.com/user-attachments/assets/d5dd97e4-e1b0-4aa0-a319-a77aa79a0cf3" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*When user completed 1 minute and unlocked a session and completed a focus session*
+
+<img width="1729" height="966" alt="Screenshot_2026-02-14_08-08-43" src="https://github.com/user-attachments/assets/f6cba511-0a6a-4810-9289-6ed56293554a" />
+
+*After the user clicks reset, the stats are reset.*
 
 #### Diagrams
 
@@ -107,6 +110,11 @@ HTML handles layout, CSS handles styling and retro/fun visuals, JS handles timer
 Index.html is opened by user, then when user initiates tracking, the timer starts tracking focus time. At predefined intervals (here, it is 60 seconds) a meme is unlocked and displayed, while the user is said to be completed a single session. Stats panel updates the number of session, focus time and memes unlocked. The user continues session and this process continues until entire session ends. User can reset timer or reload to reset stats and timer.
 
 ## Project Demo
+
+
+
+https://github.com/user-attachments/assets/ccfc0574-03d7-4107-b008-a0fa0fc72b80
+
 
 
 ### Video
