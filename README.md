@@ -11,7 +11,7 @@
 - Member 1: Ashna Shirin - Christ College of Engineering, Irinjalakuda
 
 ### Hosted Project Link
-https://ashnashirin.github.io/auto-draft/
+https://ashnashirin.github.io/fun-focus-app/
 
 ### Project Description
 Fun productivity tool tha tracks the time of focused work sessons and rewrads you with funny memes at certain intervals.It gamifies focus by showing stats like total focus time and memes unlocked, making staying on task playful and engaging.
