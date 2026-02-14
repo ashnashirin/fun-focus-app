@@ -107,6 +107,7 @@ HTML handles layout, CSS handles styling and retro/fun visuals, JS handles timer
 
 <img width="500" height="500" alt="Application Workflow" src="https://github.com/user-attachments/assets/8df125e1-5ba6-46c0-aa24-073e5648a966" />
 
+
 Index.html is opened by user, then when user initiates tracking, the timer starts tracking focus time. At predefined intervals (here, it is 60 seconds) a meme is unlocked and displayed, while the user is said to be completed a single session. Stats panel updates the number of session, focus time and memes unlocked. The user continues session and this process continues until entire session ends. User can reset timer or reload to reset stats and timer.
 
 ## Project Demo
@@ -114,6 +115,7 @@ Index.html is opened by user, then when user initiates tracking, the timer start
 
 
 https://github.com/user-attachments/assets/ccfc0574-03d7-4107-b008-a0fa0fc72b80
+
 
 The video displays the working of the created mvp. Index.html is opened by user, then when user initiates tracking, the timer starts tracking focus time. At predefined intervals (here, it is 60 seconds) a meme is unlocked and displayed, while the user is said to be completed a single session. Stats panel updates the number of session, focus time and memes unlocked. The user continues session and this process continues until entire session ends. User can reset timer or reload to reset stats and timer.
 
@@ -136,7 +138,6 @@ If you used AI tools during development, document them here for transparency:
 
 - “Explain how to implement a focus timer with meme unlocks in JavaScript”
 
-- 
 **Percentage of AI-generated code:** 40–50% (Guidance and code snippets provided by AI; all integration, testing, customization, and final coding done by me)
 
 **Human Contributions:**
