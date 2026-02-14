@@ -2,18 +2,17 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [Retro Focus Buddy] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: []
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Ashna Shirin] - [Christ College of Engineering, Irinjalakuda]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://ashnashirin.github.io/auto-draft/]
 
 ### Project Description
 [2-3 lines about what your project does]
