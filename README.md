@@ -14,13 +14,14 @@
 https://ashnashirin.github.io/fun-focus-app/
 
 ### Project Description
-Fun productivity tool tha tracks the time of focused work sessons and rewrads you with funny memes at certain intervals.It gamifies focus by showing stats like total focus time and memes unlocked, making staying on task playful and engaging.
+Fun productivity tool that tracks the time of focused work sessons and rewards you with funny memes at certain intervals. It gamifies focus by showing stats like total focus time and memes unlocked, making staying on task playful and engaging.
 
 ### The Problem statement
 People often lose focus or procrastinate while working or studying because traditional timers and reminders are boring or easy to ignore.
 
 ### The Solution
 This tool keeps users engaged by combining a focus timer with fun rewards. It tracks how long they stay focused, and after set intervals, unlocks memes as instant, playful feedback. Users can see stats like total focus time and memes unlocked, making staying on task interactive and rewarding rather than boring.
+
 ---
 
 ## Technical Details
