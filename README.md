@@ -92,15 +92,19 @@ Components:
 - Stats Module – maintains counters for total focus time and memes unlocked.
 
 Data Flow:
+
+
 <img width="500" height="500" alt="Data Flow" src="https://github.com/user-attachments/assets/eee95254-6c24-4841-930c-2f46da56ac4f" />
 
 Tech Stack Interaction:
 HTML handles layout, CSS handles styling and retro/fun visuals, JS handles timer, meme unlocking logic, and stats updates.
 
 **Application Workflow:**
+
+
 <img width="500" height="500" alt="Application Workflow" src="https://github.com/user-attachments/assets/8df125e1-5ba6-46c0-aa24-073e5648a966" />
 
-Index.html is opened by user, then when user initiates tracking, the timer starts tracking focus time. At predefined intervals (here, it is 60 seconds) a meme is unlocked and displayed, while the user is said to be completed a single session. Stats panel updates the number of session, focus time and memes unlocked. The user continues session and this process continues until entire session ends. User can reset timer or reload the page reset stats.
+Index.html is opened by user, then when user initiates tracking, the timer starts tracking focus time. At predefined intervals (here, it is 60 seconds) a meme is unlocked and displayed, while the user is said to be completed a single session. Stats panel updates the number of session, focus time and memes unlocked. The user continues session and this process continues until entire session ends. User can reset timer or reload to reset stats and timer.
 
 ## Project Demo
 
